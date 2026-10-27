@@ -1,0 +1,6 @@
+streamlit>=1.28.0
+Flask>=2.3.0
+opencv-contrib-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+pillow>=10.0.0
