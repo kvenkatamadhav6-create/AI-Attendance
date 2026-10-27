@@ -1,1 +1,2 @@
 # Dataset directory for storing cropped student face images
+# Models directory for storing trained OpenCV LBPH face recognizer weights
